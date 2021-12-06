@@ -1,0 +1,7 @@
+install.packages("shiny")
+install.packages("shinythemes")
+install.packages("sf")
+install.packages("mapview")
+install.packages("leaflet")
+install.packages("leafpop")
+install.packages("shinydashboard")
