@@ -1,6 +1,8 @@
-# Launch the Shiny application
+# Launch the application
 
-Application: [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/barcaroli/LUCAS_selected_points/HEAD)
+Jupyter notebook: [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/barcaroli/LUCAS_selected_points/HEAD)
+
+RStudio: [![Binder](http://mybinder.org/badge_logo.svg)](http://mybinder.org/v2/gh/barcaroli/LUCAS_selected_points/HEAD?urlpath=rstudio)
 
 RShiny: [![Binder](http://mybinder.org/badge_logo.svg)](http://mybinder.org/v2/gh/barcaroli/LUCAS_selected_points/HEAD?urlpath=shiny/lucas/)
 
